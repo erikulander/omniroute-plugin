@@ -1,0 +1,11 @@
+{
+  "name": "omniroute-marketplace",
+  "owner": { "name": "Erik" },
+  "plugins": [
+    {
+      "name": "omniroute",
+      "source": "./omniroute-plugin",
+      "description": "Skills for OmniRoute, the open-source AI gateway."
+    }
+  ]
+}
